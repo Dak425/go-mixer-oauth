@@ -1,0 +1,17 @@
+package mixeroauth
+
+// ScopeCollection represents a slice of scopes
+type ScopeCollection []Scope
+
+// ScopeStringMap represents a map with string => scope pairs
+type ScopeStringMap map[string]Scope
+
+// Scope represents a scoped permission that can be listed when request OAUTH2 access to Mixer's API
+type Scope string
+
+const (
+    {{ range . }}
+    // {{ .Description }}
+    {{ .Name | ToCamelCase }} Scope = "{{- .Name -}}"
+    {{ end }}
+)

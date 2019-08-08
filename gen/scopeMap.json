@@ -1,0 +1,242 @@
+[
+	{
+		"name": "user:act_as",
+		"description": "Let's you act as this user on other resources."
+	},
+	{
+		"name": "achievement:view:self",
+		"description": "View your earned achievements."
+	},
+	{
+		"name": "channel:analytics:self",
+		"description": "View your channel analytics."
+	},
+	{
+		"name": "channel:clip:create:self",
+		"description": "Create new clips from videos on your channel."
+	},
+	{
+		"name": "channel:clip:delete:self",
+		"description": "Allows deleting existing clips on your channel."
+	},
+	{
+		"name": "channel:costream:self",
+		"description": "Manage your costreaming requests."
+	},
+	{
+		"name": "channel:deleteBanner:self",
+		"description": "Delete your channel banner"
+	},
+	{
+		"name": "channel:details:self",
+		"description": "View your channel details."
+	},
+	{
+		"name": "channel:follow:self",
+		"description": "Follow and unfollow other channels."
+	},
+	{
+		"name": "channel:partnership",
+		"description": "Create and view partnership applications."
+	},
+	{
+		"name": "channel:partnership:self",
+		"description": "Manage your partnership status."
+	},
+	{
+		"name": "channel:streamKey:self",
+		"description": "View your channel's stream key."
+	},
+	{
+		"name": "channel:teststream:view:self",
+		"description": "Watch your test streams."
+	},
+	{
+		"name": "channel:update:self",
+		"description": "Update your channel settings"
+	},
+	{
+		"name": "chat:bypass_catbot",
+		"description": "Bypasses the catbot chat filter."
+	},
+	{
+		"name": "chat:bypass_filter",
+		"description": "Bypass the chat content filter."
+	},
+	{
+		"name": "chat:bypass_links",
+		"description": "Bypass links being disallowed in chat."
+	},
+	{
+		"name": "chat:bypass_slowchat",
+		"description": "Bypass slowchat settings on channels."
+	},
+	{
+		"name": "chat:cancel_skill",
+		"description": "Cancel a skill."
+	},
+	{
+		"name": "chat:change_ban",
+		"description": "Manage bans in chats."
+	},
+	{
+		"name": "chat:change_role",
+		"description": "Manage roles in chats."
+	},
+	{
+		"name": "chat:chat",
+		"description": "Interact with chats on your behalf."
+	},
+	{
+		"name": "chat:clear_messages",
+		"description": "Clear messages in chats where authorized."
+	},
+	{
+		"name": "chat:connect",
+		"description": "Connect to chat."
+	},
+	{
+		"name": "chat:edit_options",
+		"description": "Edit chat options, including links settings and slowchat."
+	},
+	{
+		"name": "chat:giveaway_start",
+		"description": "Start a giveaway in chats where authorized."
+	},
+	{
+		"name": "chat:poll_start",
+		"description": "Start a poll in chats where authorized."
+	},
+	{
+		"name": "chat:poll_vote",
+		"description": "Vote in chat polls."
+	},
+	{
+		"name": "chat:purge",
+		"description": "Clear all messages from a specific user in chat."
+	},
+	{
+		"name": "chat:remove_message",
+		"description": "Remove own and other's messages in chat."
+	},
+	{
+		"name": "chat:timeout",
+		"description": "Change timeout settings in chats."
+	},
+	{
+		"name": "chat:view_deleted",
+		"description": "View deleted messages in chat."
+	},
+	{
+		"name": "chat:whisper",
+		"description": "Gives the ability to whisper in a channel"
+	},
+	{
+		"name": "delve:view:self",
+		"description": "View your Mixer homepage experience and recommendations."
+	},
+	{
+		"name": "interactive:manage:self",
+		"description": "Create, update and delete the interactive games in your account."
+	},
+	{
+		"name": "interactive:robot:self",
+		"description": "Run as an interactive game in your channel."
+	},
+	{
+		"name": "invoice:view:self",
+		"description": "View the users invoices."
+	},
+	{
+		"name": "log:view:self",
+		"description": "View and manage your security log."
+	},
+	{
+		"name": "oauth:manage:self",
+		"description": "View and manage your OAuth clients."
+	},
+	{
+		"name": "recording:manage:self",
+		"description": "Manage the users VODs."
+	},
+	{
+		"name": "redeemable:create:self",
+		"description": "Create redeemables after performing a purchase."
+	},
+	{
+		"name": "redeemable:redeem:self",
+		"description": "Use users redeemable."
+	},
+	{
+		"name": "redeemable:view:self",
+		"description": "View users redeemables."
+	},
+	{
+		"name": "resource:find:self",
+		"description": "View emoticons and other graphical resources you have access to."
+	},
+	{
+		"name": "subscription:cancel:self",
+		"description": "Cancel your subscriptions."
+	},
+	{
+		"name": "subscription:create:self",
+		"description": "Create new subscriptions."
+	},
+	{
+		"name": "subscription:renew:self",
+		"description": "Renew your existing subscriptions."
+	},
+	{
+		"name": "subscription:view:self",
+		"description": "View who you're subscribed to."
+	},
+	{
+		"name": "team:administer",
+		"description": "Administrate teams the user has rights in."
+	},
+	{
+		"name": "team:manage:self",
+		"description": "Create, join, leave teams and set the users primary team."
+	},
+	{
+		"name": "transaction:cancel:self",
+		"description": "Cancel pending transactions."
+	},
+	{
+		"name": "transaction:view:self",
+		"description": "View your pending transactions."
+	},
+	{
+		"name": "user:analytics:self",
+		"description": "View your user analytics"
+	},
+	{
+		"name": "user:details:self",
+		"description": "View your email address and other private details."
+	},
+	{
+		"name": "user:getDiscordInvite:self",
+		"description": "View users discord invites."
+	},
+	{
+		"name": "user:log:self",
+		"description": "View your user security log."
+	},
+	{
+		"name": "user:notification:self",
+		"description": "View and manage your notifications."
+	},
+	{
+		"name": "user:seen:self",
+		"description": "Mark a VOD as seen for the user."
+	},
+	{
+		"name": "user:update:self",
+		"description": "Update your account, including your email but not your password."
+	},
+	{
+		"name": "user:updatePassword:self",
+		"description": "Update your password."
+	}
+]
